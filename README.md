@@ -5,13 +5,11 @@
 
 [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)：![](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=social)「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
 
+[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)：![](https://img.shields.io/github/stars/iluwatar/java-design-patterns?style=social)Design patterns implemented in Java
 
+[elastic/elasticsearch](https://github.com/elastic/elasticsearch)：![](https://img.shields.io/github/stars/elastic/elasticsearch?style=social)Open Source, Distributed, RESTful Search Engine
 
-
-
-[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)：![img](https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=social)「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-
+[spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)：![](https://img.shields.io/github/stars/spring-projects/spring-boot?style=social)Spring Boot心知识。
 
 ## ……
 
