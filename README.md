@@ -21,13 +21,13 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaScriptGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaScriptGuide.md)
 
 ## 3，Python
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/PythonGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/PythonGuide.md)
 
 ## 4，Android
 
@@ -35,7 +35,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/AndroidGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/AndroidGuide.md)
 
 ## 5，IOS
 
@@ -43,19 +43,19 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/IOSGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/IOSGuide.md)
 
 ## 6，PHP
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/PHPGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/PHPGuide.md)
 
 ## 7，Ruby
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/RubyGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/RubyGuide.md)
 
 ## 8，C
 
@@ -63,7 +63,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CGuide.md)
 
 ## 9，C++
 
@@ -71,7 +71,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CplusplusGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CplusplusGuide.md)
 
 ## 10，HTML
 
@@ -85,7 +85,7 @@
 
 [5，google/styleguide](https://github.com/google/styleguide)：![img](https://img.shields.io/github/stars/google/styleguide?style=social)Style guides for Google-originated open-source projects
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/HTMLGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/HTMLGuide.md)
 
 ## 11，Go
 
@@ -93,7 +93,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/GoGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/GoGuide.md)
 
 ## 12，Shell
 
@@ -103,7 +103,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/ShellGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/ShellGuide.md)
 
 ## 13，Typescript
 
@@ -111,7 +111,7 @@
 
 
 
-# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypescriptGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypescriptGuide.md)
 
 #### 如果大家有喜欢”数据结构和算法“的可以关注我微信公众号“数据结构和算法”，也可以直接扫描下发二维码关注，我会经常推送一些关于算法的题，和大家一起来学习探讨。
 
