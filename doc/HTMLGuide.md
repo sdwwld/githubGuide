@@ -178,7 +178,7 @@
 
 [89，sindresorhus/screenfull.js](https://github.com/sindresorhus/screenfull.js)：![img](https://img.shields.io/github/stars/sindresorhus/screenfull.js?style=social)Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
-[90，lifesinger/blog](https://github.com/lifesinger/blog)：![](https://img.shields.io/github/stars/lifesinger/blog?style=social)岁月如歌
+[90，lifesinger/blog](https://github.com/lifesinger/blog)：![img](https://img.shields.io/github/stars/lifesinger/blog?style=social)岁月如歌
 
 [91，jgraph/mxgraph](https://github.com/jgraph/mxgraph)：![img](https://img.shields.io/github/stars/jgraph/mxgraph?style=social)mxGraph is a fully client side JavaScript diagramming library
 
