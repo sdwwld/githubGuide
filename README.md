@@ -21,13 +21,13 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 3，Python
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 4，Android
 
@@ -35,7 +35,7 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 5，IOS
 
@@ -43,19 +43,19 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 6，PHP
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 7，Ruby
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 8，C
 
@@ -63,7 +63,7 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 9，C++
 
@@ -71,13 +71,13 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 10，HTML
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 11，Go
 
@@ -85,7 +85,7 @@
 
 
 
-
+[查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
 ## 12，Shell
 
@@ -95,11 +95,15 @@
 
 
 
-
+# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/ShellGuide.md)
 
 ## 13，Typescript
 
 
+
+
+
+# [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypescriptGuide.md)
 
 #### 如果大家有喜欢”数据结构和算法“的可以关注我微信公众号“数据结构和算法”，也可以直接扫描下发二维码关注，我会经常推送一些关于算法的题，和大家一起来学习探讨。
 
