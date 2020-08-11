@@ -151,7 +151,7 @@
 
 
 
-## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypescriptGuide.md)
+## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypeScriptGuide.md)
 
 #### 如果大家有喜欢”数据结构和算法“的可以关注我微信公众号“数据结构和算法”，也可以直接扫描下发二维码关注，我会经常推送一些关于算法的题，和大家一起来学习探讨。
 
