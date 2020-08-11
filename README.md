@@ -48,9 +48,15 @@
 
 # [4，Android](https://github.com/sdwwld/githubGuide/blob/master/doc/AndroidGuide.md)
 
+[9，ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)：![img](https://img.shields.io/github/stars/ReactiveX/RxJava?style=social)RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observ…
 
+[13，square/okhttp](https://github.com/square/okhttp)：![img](https://img.shields.io/github/stars/square/okhttp?style=social)Square’s meticulous HTTP client for Java and Kotlin.
 
+[14，square/retrofit](https://github.com/square/retrofit)：![img](https://img.shields.io/github/stars/square/retrofit?style=social)A type-safe HTTP client for Android and the JVM
 
+[16，PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)：![img](https://img.shields.io/github/stars/PhilJay/MPAndroidChart?style=social)A powerful🚀Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick chart…
+
+[17，bumptech/glide](https://github.com/bumptech/glide)：![img](https://img.shields.io/github/stars/bumptech/glide?style=social)An image loading and caching library for Android focused on smooth scrolling
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/AndroidGuide.md)
 
