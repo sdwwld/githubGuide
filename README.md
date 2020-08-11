@@ -93,9 +93,15 @@
 
 ## 8，C
 
+[1，torvalds/linux](https://github.com/torvalds/linux)：![img](https://img.shields.io/github/stars/torvalds/linux?style=social)Linux kernel source tree
 
+[2，netdata/netdata](https://github.com/netdata/netdata)：![img](https://img.shields.io/github/stars/netdata/netdata?style=social)Real-time performance monitoring, done right!https://www.netdata.cloud
 
+[3，redis/redis](https://github.com/redis/redis)：![img](https://img.shields.io/github/stars/redis/redis?style=social)Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values …
 
+[4，Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)：![img](https://img.shields.io/github/stars/Genymobile/scrcpy?style=social)Display and control your Android device
+
+[5，git/git](https://github.com/git/git)：![img](https://img.shields.io/github/stars/git/git?style=social)Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documenta…
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CGuide.md)
 
