@@ -656,9 +656,9 @@
 
 [328，janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)：![img](https://img.shields.io/github/stars/janpaepke/ScrollMagic?style=social)The javascript library for magical scroll interactions.
 
-[329，Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)：![img](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social)High performance <canvas> rendering for React components
+[329，Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)：![img](https://img.shields.io/github/stars/Flipboard/react-canvas?style=social)High performance <\canvas> rendering for React components
 
-[330，selectize/selectize.js](https://github.com/selectize/selectize.js)：![img](https://img.shields.io/github/stars/selectize/selectize.js?style=social)Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling k…
+[330，selectize/selectize.js](https://github.com/selectize/selectize.js)：![img](https://img.shields.io/github/stars/selectize/selectize.js?style=social)Selectize is the hybrid of a textbox and <\select> box. It's jQuery based and it has autocomplete and native-feeling k…
 
 [331，redux-form/redux-form](https://github.com/redux-form/redux-form)：![img](https://img.shields.io/github/stars/redux-form/redux-form?style=social)A Higher Order Component using react-redux to keep form state in a Redux store
 
