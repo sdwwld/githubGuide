@@ -13,8 +13,6 @@
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaGuide.md)
 
-
-
 ## 2，JavaScript
 
 [1，freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)：![img](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social)freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
@@ -26,8 +24,6 @@
 [4，twbs/bootstrap](https://github.com/twbs/bootstrap)：![img](https://img.shields.io/github/stars/twbs/bootstrap?style=social)The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 [5，airbnb/javascript](https://github.com/airbnb/javascript)：![img](https://img.shields.io/github/stars/airbnb/javascript?style=social)JavaScript Style Guide
-
-
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/JavaScriptGuide.md)
 
@@ -65,8 +61,6 @@
 
 [5，jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)：![img](https://img.shields.io/github/stars/jdg/MBProgressHUD?style=social)MBProgressHUD + Customizations
 
-
-
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/IOSGuide.md)
 
 ## 6，PHP
@@ -85,7 +79,15 @@
 
 ## 7，Ruby
 
+[1，rails/rails](https://github.com/rails/rails)：![img](https://img.shields.io/github/stars/rails/rails?style=social)Ruby on Rails
 
+[2，jekyll/jekyll](https://github.com/jekyll/jekyll)：![img](https://img.shields.io/github/stars/jekyll/jekyll?style=social)🌐Jekyll is a blog-aware static site generator in Ruby
+
+[3，discourse/discourse](https://github.com/discourse/discourse)：![img](https://img.shields.io/github/stars/discourse/discourse?style=social)A platform for community discussion. Free, open, simple.
+
+[4，fastlane/fastlane](https://github.com/fastlane/fastlane)：![img](https://img.shields.io/github/stars/fastlane/fastlane?style=social)🚀The easiest way to automate building and releasing your iOS and Android apps
+
+[5，huginn/huginn](https://github.com/huginn/huginn)：![img](https://img.shields.io/github/stars/huginn/huginn?style=social)Create agents that monitor and act on your behalf. Your agents are standing by!
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/RubyGuide.md)
 
@@ -108,8 +110,6 @@
 [4，apple/swift](https://github.com/apple/swift)：![img](https://img.shields.io/github/stars/apple/swift?style=social)The Swift Programming Language
 
 [5，opencv/opencv](https://github.com/opencv/opencv)：![img](https://img.shields.io/github/stars/opencv/opencv?style=social)Open Source Computer Vision Library
-
-
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/CplusplusGuide.md)
 
@@ -139,25 +139,33 @@
 
 [5，gohugoio/hugo](https://github.com/gohugoio/hugo)：![img](https://img.shields.io/github/stars/gohugoio/hugo?style=social)The world’s fastest framework for building websites.
 
-
-
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/GoGuide.md)
 
 ## 12，Shell
 
+[1，ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：![img](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social)🙃A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 20…
 
+[2，nvm-sh/nvm](https://github.com/nvm-sh/nvm)：![img](https://img.shields.io/github/stars/nvm-sh/nvm?style=social)Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
+[3，papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)：![img](https://img.shields.io/github/stars/papers-we-love/papers-we-love?style=social)Papers from the computer science community to read and discuss.
 
+[4，tldr-pages/tldr](https://github.com/tldr-pages/tldr)：![img](https://img.shields.io/github/stars/tldr-pages/tldr?style=social)📚Collaborative cheatsheets for console commands
 
-
+[5，open-guides/og-aws](https://github.com/open-guides/og-aws)：![img](https://img.shields.io/github/stars/open-guides/og-aws?style=social)📙Amazon Web Services — a practical guide
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/ShellGuide.md)
 
 ## 13，Typescript
 
+[1，microsoft/vscode](https://github.com/microsoft/vscode)：![img](https://img.shields.io/github/stars/microsoft/vscode?style=social)Visual Studio Code
 
+[2，denoland/deno](https://github.com/denoland/deno)：![img](https://img.shields.io/github/stars/denoland/deno?style=social)A secure JavaScript and TypeScript runtime
 
+[3，angular/angular](https://github.com/angular/angular)：![img](https://img.shields.io/github/stars/angular/angular?style=social)One framework. Mobile & desktop.
 
+[4，puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)：![img](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social)Headless Chrome Node.js API
+
+[5，microsoft/TypeScript](https://github.com/microsoft/TypeScript)：![img](https://img.shields.io/github/stars/microsoft/TypeScript?style=social)TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## [查看更多……](https://github.com/sdwwld/githubGuide/blob/master/doc/TypeScriptGuide.md)
 
